@@ -6,3 +6,5 @@
 <img width="692" height="672" alt="image" src="https://github.com/user-attachments/assets/58d6be67-1898-404f-99a0-3ea552ba0e68" />
 
 <img width="224" height="201" alt="image" src="https://github.com/user-attachments/assets/1ff9ce96-6c9b-405e-9653-8ee6aa133c4c" />
+<img width="494" height="126" alt="예제코드" src="https://github.com/user-attachments/assets/5e1b5125-101e-44e8-9e0d-27a09fb8762c" />
+<img width="494" height="126" alt="직접코드" src="https://github.com/user-attachments/assets/a4cbf358-3f69-4c5c-b750-a380706b2231" />
