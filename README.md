@@ -10,3 +10,6 @@
 <img width="494" height="126" alt="직접코드" src="https://github.com/user-attachments/assets/a4cbf358-3f69-4c5c-b750-a380706b2231" />
 <img width="494" height="126" alt="코드해석" src="https://github.com/user-attachments/assets/3b34fda3-e87c-4905-a599-6f7d6073af19" />
 <img width="494" height="126" alt="오류수정" src="https://github.com/user-attachments/assets/aac2902a-3d7f-49c4-93dc-f69c8315a144" />
+
+
+<img width="960" height="540" alt="M3 데이터 수합하기_이론자료 현대 모비스 장표" src="https://github.com/user-attachments/assets/96873057-32a2-4309-b013-bfcd992e1a3a" />
