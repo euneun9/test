@@ -26,3 +26,7 @@
 
 <img width="594" height="639" alt="image" src="https://github.com/user-attachments/assets/32c5e26c-d1a8-4315-94e1-d8e541f8f7b1" />
 <img width="1146" height="330" alt="image" src="https://github.com/user-attachments/assets/87cb5572-0017-455e-ad53-a45b4bfbe8ca" />
+<img width="502" height="233" alt="image" src="https://github.com/user-attachments/assets/41407818-07f3-49a0-a005-fe8425db4023" />
+<img width="117" height="100" alt="스크린샷 2025-08-25 145643" src="https://github.com/user-attachments/assets/dbc68363-58d6-4067-887a-41f0dd219231" />
+<img width="221" height="229" alt="스크린샷 2025-08-25 145801" src="https://github.com/user-attachments/assets/45d77336-e580-4bfa-8c76-498741fc07c9" />
+
