@@ -15,4 +15,8 @@
 <img width="960" height="540" alt="M3 데이터 수합하기_이론자료 현대 모비스 장표" src="https://github.com/user-attachments/assets/96873057-32a2-4309-b013-bfcd992e1a3a" />
 <img width="1000" height="477" alt="image" src="https://github.com/user-attachments/assets/cd6daf7e-8126-45e4-991f-3c4cb38aaaee" />
 
-<img width="916" height="569" alt="image" src="https://github.com/user-attachments/assets/b52ac698-8bdd-4b87-ac06-034370f07585" />
+<img width="1106" height="594" alt="image" src="https://github.com/user-attachments/assets/aaf9ff55-6cf6-4dc8-b69c-aefaaededb33" />
+<img width="923" height="528" alt="image" src="https://github.com/user-attachments/assets/5d839260-c1d2-4e48-a731-1d2011ed51ce" />
+
+
+<img width="1118" height="507" alt="image" src="https://github.com/user-attachments/assets/0e637dee-755f-41b8-be13-9891efa795bd" />
