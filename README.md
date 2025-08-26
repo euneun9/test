@@ -30,3 +30,6 @@
 <img width="117" height="100" alt="스크린샷 2025-08-25 145643" src="https://github.com/user-attachments/assets/dbc68363-58d6-4067-887a-41f0dd219231" />
 <img width="221" height="229" alt="스크린샷 2025-08-25 145801" src="https://github.com/user-attachments/assets/45d77336-e580-4bfa-8c76-498741fc07c9" />
 
+<img width="1416" height="950" alt="image" src="https://github.com/user-attachments/assets/a1f34338-6be3-4fd6-8bd5-6a8c973f3de0" />
+
+
