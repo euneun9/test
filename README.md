@@ -30,6 +30,8 @@
 <img width="117" height="100" alt="스크린샷 2025-08-25 145643" src="https://github.com/user-attachments/assets/dbc68363-58d6-4067-887a-41f0dd219231" />
 <img width="221" height="229" alt="스크린샷 2025-08-25 145801" src="https://github.com/user-attachments/assets/45d77336-e580-4bfa-8c76-498741fc07c9" />
 
-<img width="1416" height="950" alt="image" src="https://github.com/user-attachments/assets/a1f34338-6be3-4fd6-8bd5-6a8c973f3de0" />
+<img width="1418" height="852" alt="image" src="https://github.com/user-attachments/assets/9e9ae15c-74b9-47b2-9c0f-eac662625d6a" />
+<img width="1400" height="1196" alt="image" src="https://github.com/user-attachments/assets/5a44aaf1-34f3-4cbe-9e57-bc736e3177ba" />
+
 
 
