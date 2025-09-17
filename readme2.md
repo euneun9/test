@@ -6,3 +6,4 @@
 <img width="4843" height="1372" alt="Group 12" src="https://github.com/user-attachments/assets/7ed9441d-87f0-449b-85da-de647ac6195e" />
 <img width="1943" height="3868" alt="Group 12-2" src="https://github.com/user-attachments/assets/2cf070a5-74e7-41cc-94e3-e50d5615c91d" />
 <img width="3511" height="1699" alt="Group 13" src="https://github.com/user-attachments/assets/ef4f84f7-adbb-4095-8f51-2a971ea8db5b" />
+<img width="1571" height="1300" alt="Group 18-2" src="https://github.com/user-attachments/assets/730b8dc6-7fcb-4859-bcdf-c19fdba74431" />
