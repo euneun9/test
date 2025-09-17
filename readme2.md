@@ -4,4 +4,4 @@
 <img width="1386" height="603" alt="Group 10" src="https://github.com/user-attachments/assets/9570406b-efe5-4b38-b35d-b53e14e85366" />
 <img width="446" height="310" alt="Group 11" src="https://github.com/user-attachments/assets/1251f27f-3262-4c8a-b9f2-694b087b1d4f" />
 <img width="4843" height="1372" alt="Group 12" src="https://github.com/user-attachments/assets/7ed9441d-87f0-449b-85da-de647ac6195e" />
-<img width="4843" height="1372" alt="Group 12" src="https://github.com/user-attachments/assets/4244f056-ad52-4d55-bccc-fcad1003ebb9" />
+<img width="1943" height="3661" alt="Group 12-2" src="https://github.com/user-attachments/assets/54bc7891-b5e0-4c14-8abb-4adf9ae74db8" />
