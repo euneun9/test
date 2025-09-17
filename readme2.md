@@ -10,3 +10,4 @@
 <img width="2588" height="1300" alt="Group 20" src="https://github.com/user-attachments/assets/630a0fe5-93ce-476d-9a3e-e7dc6d3cb781" />
 <img width="1571" height="1300" alt="Group 21" src="https://github.com/user-attachments/assets/f9f9d499-ca8f-4263-89ca-ab10eb65fcaa" />
 
+<img width="960" height="540" alt="제목 없는 프레젠테이션 (3)" src="https://github.com/user-attachments/assets/d3643d27-5834-4cad-a1af-41951c39fa12" />
