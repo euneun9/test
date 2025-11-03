@@ -5,3 +5,4 @@
 <img width="960" height="540" alt="제목 없는 프레젠테이션 (11)" src="https://github.com/user-attachments/assets/9f7ecdd5-1da3-4662-aad7-ef01804e54c1" />
 <img width="960" height="540" alt="제목 없는 프레젠테이션 (10)" src="https://github.com/user-attachments/assets/3b73cff7-158f-4cdd-9fef-62551d9a4b4c" />
 <img width="960" height="540" alt="제목 없는 프레젠테이션 (9)" src="https://github.com/user-attachments/assets/118b2afe-b95c-4340-8cad-f364de449b0f" />
+<img width="960" height="540" alt="데이터 합치기" src="https://github.com/user-attachments/assets/ce444823-583d-4c39-bf5d-54b6e630e66e" />
